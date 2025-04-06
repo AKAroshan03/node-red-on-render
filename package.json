@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "node-red": "^3.1.0",
-    "node-red-contrib-firebase-realtime-database": "^1.1.1",
+    "node-red-contrib-firebase-realtime-database": "^1.0.4",
     "express": "^4.18.2"
   }
 }
